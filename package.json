@@ -1,0 +1,15 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "fetching",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./index.js"
+  },
+  "author": "farooq",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
